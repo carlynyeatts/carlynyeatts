@@ -1,4 +1,4 @@
-![](https://github.com/james-b-ashworth/james-b-ashworth/blob/main/github_banner.png)
+![](https://github.com/carlynyeatts/carlynyeatts/blob/main/KSU.jpeg)
 # Carlyn Yeatts
 ## Customer Relations and Animal Care Support, Fuzzy Face’s Pet Sitting
 
