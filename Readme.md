@@ -14,4 +14,4 @@ I recently became a member of Kennesaw State University’s Undergraduate Resear
 
 - :notebook: Research
 - :canoe: Kayaking
-- :mountains: Hiking
+- :sunrise_over_mountains: Hiking
