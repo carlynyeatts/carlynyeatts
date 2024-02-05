@@ -3,7 +3,7 @@
 ## Customer Relations and Animal Care Support, Fuzzy Face’s Pet Sitting
 
 ### Resume & LinkedIn
-- [Carlyn’s Resume](https://github.com/carlynyeatts/carlynyeatts/resume.pdf)
+- [Carlyn’s Resume](https://github.com/carlynyeatts/carlynyeatts/blob/main/resume.pdf)
 - [Carlyn’s LinkedIn](https://www.linkedin.com/in/james-ashworth-11514348/)
 
 ### Currently Working On, Education:
