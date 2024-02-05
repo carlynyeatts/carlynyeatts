@@ -4,7 +4,7 @@
 
 ### Resume & LinkedIn
 - [Carlyn’s Resume](https://github.com/carlynyeatts/carlynyeatts/blob/main/Resume.pdf)
-- [Carlyn’s LinkedIn](https://www.linkedin.com/in/james-ashworth-11514348/)
+- [Carlyn’s LinkedIn](www.linkedin.com/in/carlyn-yeatts)
 
 ### Currently Working On, Education:
 
